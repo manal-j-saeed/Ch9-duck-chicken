@@ -1,0 +1,3 @@
+Deployment Link
+Replace this line with the public Render URL after deployment:
+https://YOUR-APP-NAME.onrender.com
