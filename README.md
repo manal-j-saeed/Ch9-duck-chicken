@@ -45,7 +45,7 @@ docker run -p 5000:5000 yolo-detector
 Open:
 
 ```text
-(https://ch9-duck-chicken-1.onrender.com)
+https://ch9-duck-chicken-1.onrender.com
 ```
 
 ## How to Use the Interface
